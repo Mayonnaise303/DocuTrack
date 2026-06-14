@@ -1,0 +1,6 @@
+{
+  "name": "DocuTrack",
+  "description": "A Web-Based Document Tracking and Information Management System for Christ the King College.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
